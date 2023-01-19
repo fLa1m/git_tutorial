@@ -1,3 +1,4 @@
+![Git](https://y-skills.com/upload/iblock/bd1/bd1d0cac6e1d6d4ef8991ee298e7886e.jpeg)
 # Инструкция для работы с Git и удалёнными репозиториями
 ## Что такое Git?
 ---
